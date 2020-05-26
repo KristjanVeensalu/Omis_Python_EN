@@ -35,10 +35,11 @@ Useful Links:
 Homework
 <br></br>
 <ul>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
+	<li>Write a small drill program to learn the multiplication table</li>
+	<li>1. It shows the user a simple mathematical exercise.</li>
+	<li>2. The user inputs an anwser and the program checks if its correct.</li>
+	<li>3. Then it tells the user if they are correct or not</li>#
+	<li>4. This program has a total of at least 10 different exercises to choose from.</li>
 <hr></hr>
 
 ![Pilt pythoni koodist](/assets/pilt.png)
