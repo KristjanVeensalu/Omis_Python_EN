@@ -35,11 +35,12 @@ Useful Links:
 Homework
 <br></br>
 <ul>
-	<li>Write a small drill program to learn the multiplication table</li>
-	<li>1. It shows the user a simple mathematical exercise.</li>
-	<li>2. The user inputs an anwser and the program checks if its correct.</li>
-	<li>3. Then it tells the user if they are correct or not</li>#
-	<li>4. This program has a total of at least 10 different exercises to choose from.</li>
+	<li>Write a small drill program to learn about list use</li>
+	<li>1. It adds up to ten user input values into a list</li>
+	<li>2.The user is returned your list, but reversed and squared</li>
+	<li>3. Then the user will input one of the values in the new list</li>
+	<li>4. When they do that, that value will be removed from the list, and added to a new one.</li>
+	<li>5. This is repeated until the old list is empty..</li>
 <hr></hr>
 
 ![Pilt pythoni koodist](/assets/pilt.png)

@@ -57,4 +57,7 @@ if UserSecondInput % 4 == 0:
     if UserSecondInput % 100 != 0:
         print("This is the value!")
 
-
+'''
+Write a program that asks the user which geometrical shape they wish to calculate with. (Triangle, square, rectangle)
+After the user has responded, depending on the shape, ask for the length of all required sides to calculate the area and 
+circumference of said shape. Return those values.'''
