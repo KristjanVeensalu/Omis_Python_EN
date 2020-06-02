@@ -39,7 +39,7 @@ Homework
 	<li>1. User inputs 6 numbers,</li>
 	<li>2. First return them one by one the multiplication table values (Up to 10) of those 		numbers,e.g. if the value is 2 then return: 2,4,6,8,10,12,14,16,18,20 </li>
 	<li>3. Then return the sum of those multiplication table values one by one in additive order (Using the previous numbers as an example the return would be: 6,12,20,30,42,56,72,90,110).</li>
-	<li>4. Then one by one return the original entered numbers to them in reverse of the order they were entered. </li>
+	<li>4. The program displays "Done" after successfully executing the loop </li>
 <hr></hr>
 
 ![Pilt pythoni koodist](/assets/pilt.png)
