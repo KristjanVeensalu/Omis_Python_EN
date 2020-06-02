@@ -55,11 +55,11 @@ primary minor errors and slipups have been removed (syntax errors). To do this, 
 - all strings have a start and end symbol (the latter tends to be omitted)
 - all brackets are even
 - the comparison is made with == and not = = and the assignment is with = and not ==
-
+<br></br>
 If the listed errors have already been found before starting the program, the check could be extended.
 The following is a selection of questions that the tester is advised to ask while reading the program code
 (by the way, this activity is officially called static testing):
-
+<br></br>
 
 1. Review the variables and their names:
 - Whether an attempt is made to use the value of a variable before the variable occurs, ie is there any undervalued
@@ -70,14 +70,6 @@ with a capital letter but with a lowercase letter for the same variable elsewher
 2. Check the non function words:
 - They must be in a different color in the IDLE editor - then they are spelled correctly. If not, check the word for an error.
 - Also look at what features you use - maybe it's some of the features you are using to turn to a separate module (import math) etc.?
-
-3. Avaldised ja andmetüübid - vaata üle nii aritmeetikaavaldised kui ka loogikaavaldised:
-- Kas ühte lausesse või avaldisse on kokku sattunud sobivad andmetüübid? Arvude ja stringide koos kasutamine 
-ei lõppe enamasti hästi. Arvuti ei saa arvutada "porgand" + 3.
-- Kas kõik arvutamisel kasutatavad muutujad on peale sisestamist ka arvuks teisendatud?
-- Kas sealjuures on kasutatud andme iseloomule sobivalt täisarvu (int()) või ujukomaarvu (float())?
-- Kas tehete järjekord on õigesti määratud ja kas kasutatakse selleks piisavalt sulge?
-- Kas võib tekkida jagamist nulliga?
 
 3. Statements and data types - review both arithmetic and logical statements:
 - Are there suitable data types in one sentence or expression? Using numbers and strings together
