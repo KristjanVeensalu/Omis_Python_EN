@@ -72,14 +72,6 @@ with a capital letter but with a lowercase letter for the same variable elsewher
 - They must be in a different color in the IDLE editor - then they are spelled correctly. If not, check the word for an error.
 - Also look at what features you use - maybe it's some of the features you are using to turn to a separate module (import math) etc.?
 
-3. Avaldised ja andmetüübid - vaata üle nii aritmeetikaavaldised kui ka loogikaavaldised:
-- Kas ühte lausesse või avaldisse on kokku sattunud sobivad andmetüübid? Arvude ja stringide koos kasutamine 
-ei lõppe enamasti hästi. Arvuti ei saa arvutada "porgand" + 3.
-- Kas kõik arvutamisel kasutatavad muutujad on peale sisestamist ka arvuks teisendatud?
-- Kas sealjuures on kasutatud andme iseloomule sobivalt täisarvu (int()) või ujukomaarvu (float())?
-- Kas tehete järjekord on õigesti määratud ja kas kasutatakse selleks piisavalt sulge?
-- Kas võib tekkida jagamist nulliga?
-
 3. Statements and data types - review both arithmetic and logical statements:
 - Are there suitable data types in one sentence or expression? Using numbers and strings together
 doesn't usually end well. The computer can not calculate "carrot" + 3.
