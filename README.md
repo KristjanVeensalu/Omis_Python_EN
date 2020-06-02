@@ -60,7 +60,7 @@ primary minor errors and slipups have been removed (syntax errors). To do this, 
 If the listed errors have already been found before starting the program, the check could be extended.
 The following is a selection of questions that the tester is advised to ask while reading the program code
 (by the way, this activity is officially called static testing):
-
+<br></br>
 
 1. Review the variables and their names:
 - Whether an attempt is made to use the value of a variable before the variable occurs, ie is there any undervalued
