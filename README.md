@@ -35,11 +35,15 @@ Useful Links:
 Homework
 <br></br>
 <ul>
-	<li>Write a small drill program to learn about for loops</li>
-	<li>1. User inputs 6 numbers,</li>
-	<li>2. First return them one by one the multiplication table values (Up to 10) of those 		numbers,e.g. if the value is 2 then return: 2,4,6,8,10,12,14,16,18,20 </li>
-	<li>3. Then return the sum of those multiplication table values one by one in additive order (Using the previous numbers as an example the return would be: 6,12,20,30,42,56,72,90,110).</li>
-	<li>4. The program displays "Done" after successfully executing the loop </li>
+	<li>Write the hangman game</li>
+	<li>1. Create a list with 10 words in it,</li>
+	<li>2. Have the program choose one random word</li>
+	<li>3. Append the letters in that word to a seperate list (List of letters)(for x in word: append x to a list)</li>
+	<li>4. Create a list with the same length but elements like this: [_,_,_] (Yes)</li>
+	<li>5. Display this list to the player and ask for a letter input</li>
+	<li>6. If the player guesses a letter in the word (if input in List of letters), change the display list _ on the same index to the corresponding letter. For example: [_,e,_]</li>
+	<li>7. If the player guesses wrong, they loose a life and get to guess again.</li>	
+	<li>8. Once all letters have been guessed or if the player guessed wrong 10 times, end the game</li>
 <hr></hr>
 
 ![Pilt pythoni koodist](/assets/pilt.png)
