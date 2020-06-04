@@ -39,7 +39,7 @@ Homework
 	<li>1. Create a list with 10 words in it,</li>
 	<li>2. Have the program choose one random word</li>
 	<li>3. Append the letters in that word to a seperate list (List of letters)(for x in word: append x to a list)</li>
-	<li>4. Create a list with the same length but elements like this: [_,_,_] (Yes)</li>
+	<li>4. Create a list with the same length but elements like this: [_,_,_] (Yes) (for x in letterlist appen "_" to displaylist)</li>
 	<li>5. Display this list to the player and ask for a letter input</li>
 	<li>6. If the player guesses a letter in the word (if input in List of letters), change the display list _ on the same index to the corresponding letter. For example: [_,e,_]</li>
 	<li>7. If the player guesses wrong, they loose a life and get to guess again.</li>	
