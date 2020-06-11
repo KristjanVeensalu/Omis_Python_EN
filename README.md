@@ -35,12 +35,12 @@ Useful Links:
 Homework
 <br></br>
 <ul>
-	<li>Think about what you want your final assignment to be</li>
-	<li>1. A web scraper that downloads the latest results from a webiste </li>
-	<li>2. A small game of some sort</li>
-	<li>3. A tool that saves and reads calculation data to a file.</li>
-	<li>Create a new repository for that assignment and send the link to me. </li>
-	<li>Make sure that the repo is ready to use (You have it set up locally aswell) and upload something to it.</li>
+	<li>Refactor your previous homework with geometrical shapes</li>
+	<li>1. All of the calculation must be done in a function.</li>
+	<li>2. The functions file must be seperate from the main program.</li>
+	<li>3. Remove any overlapping or unnecessary code.</li>
+	<li>4. Add try exceptions to the users input.</li>
+	<li>5. The main file cannot contain any calculation or functions other than print and variables. </li>
 <hr></hr>
 
 ![Pilt pythoni koodist](/assets/pilt.png)
