@@ -35,12 +35,9 @@ Useful Links:
 Homework
 <br></br>
 <ul>
-	<li>Refactor your previous homework with geometrical shapes</li>
-	<li>1. All of the calculation must be done in a function.</li>
-	<li>2. The functions file must be seperate from the main program.</li>
-	<li>3. Remove any overlapping or unnecessary code.</li>
-	<li>4. Add try exceptions to the users input.</li>
-	<li>5. The main file cannot contain any calculation or functions other than print and variables. </li>
+	<li>Create a calculation excercise program with 10 different calculations</li>
+	<li>1. All of the calculation text must be from a text file.</li>
+	<li>2. The program must still check if the calculation is correct.</li>
 <hr></hr>
 
 ![Pilt pythoni koodist](/assets/pilt.png)
