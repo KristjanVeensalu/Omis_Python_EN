@@ -38,6 +38,7 @@ Homework
 	<li>Create a calculation excercise program with 10 different calculations</li>
 	<li>1. All of the calculation text must be from a text file.</li>
 	<li>2. The program must still check if the calculation is correct.</li>
+	<li>Make a repository for your project.</li>	
 <hr></hr>
 
 ![Pilt pythoni koodist](/assets/pilt.png)
