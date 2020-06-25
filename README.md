@@ -98,5 +98,5 @@ Good luck reading your code and finding errors on your own!
 <hr></hr>
 Student Githubs:
 <ol>
-	<li><a href="*">Anna Jakovleva</a></li>
+	<li><a href="https://github.com/AnnaJakovleva/TestRepository">Anna Jakovleva</a></li>
 </ol>
