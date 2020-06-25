@@ -6,4 +6,4 @@ fetchedData = requests.get(URL)
 
 soup = BeautifulSoup(fetchedData.content, 'html.parser')
 
-print(soup)
+print(soup.prettify())
